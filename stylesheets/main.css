@@ -22,14 +22,27 @@ nav {
   width: 100%;
 }
 
+section p {
+  width: 900px;
+}
+
+article {
+  max-width: 20%;
+  float: right;
+}
 article img {
-  height: 200px;
+  width: 300px;
 }
 
 #art-museum {
-  height: 500px;
+  width: 900px;
 }
 
 h2 {
   font-weight: bold;
+}
+
+footer {
+  background-color: grey;
+  color: white;
 }
